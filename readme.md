@@ -1,5 +1,6 @@
 # JS Clock
 
-this is a js project used to demonstrate how to use git and github
+This is a Webpage which displays time. 
+It is written in JS and Html.
 
-to run the app just open it in your browser
+To run the app open the html file in your browser.
